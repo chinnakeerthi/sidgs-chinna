@@ -1,0 +1,14 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+comment out in Html  
+</Title>  
+</Head>  
+<Body>   
+JavaTpoint   <br>  
+Html Tutorial   <br>  
+The comments in the Html document are the texts of Html which are not interpreted by the Internet Browsers.   
+If we want to create the comments in the Html document then we have to follow the steps which are given below. Using these steps we can easily create the comments in the Html file which helps for describing the code of that file.    
+</Body>  
+</Html>
